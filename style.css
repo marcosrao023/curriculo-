@@ -1,0 +1,31 @@
+body {
+    margin: 20px;
+    font-family: Arial, sans-serif;
+    background-color: lightgray;
+}
+
+h1, img{
+    padding: 20px;
+    gap: 20px;              
+}
+
+h1 {
+    font-size: 38px;
+    font-weight: bold;
+    text-align: center;
+    background-color: rgb(92, 150, 243); 
+    border: solid  5px  black;   
+border-radius: 15px;   
+    
+}
+h2{
+        border-bottom: 3px solid #080808;
+        text-align: center;
+
+}
+
+p1, p2, p3, p4, p5, p6 {
+
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
