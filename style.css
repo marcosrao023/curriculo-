@@ -34,3 +34,11 @@ i {
   color: #206488;
   margin-right: 8px;
 }
+footer {
+  background-color: #222;
+  color: white;
+  text-align: center;
+  padding: 5px;
+  margin-top: 120px;
+  border-radius: 15px;
+}
